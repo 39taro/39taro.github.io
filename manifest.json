@@ -28,6 +28,7 @@
   "background_color": "#cef442",
   "dir": "ltr",
   "display": "standalone",
+  "theme-color": "#cef442",
   "orientation": "portrait"
 
 }
